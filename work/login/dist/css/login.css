@@ -1,0 +1,24 @@
+nav div.left a {
+  display: block;
+  width: 34.5px;
+  height: 35px;
+  background: url(../8916e80-back.png) 100% 100%;
+}
+nav div.center {
+  margin: 0 auto;
+  transform: translate(-17.25px 0);
+}
+#logintest form div.passbutton {
+  width: 460px;
+  height: 75px;
+  margin: 0 auto;
+  background: #fff url(../f5699ff-button.png) 100% 100%;
+  text-align: center;
+}
+#logintest form div.passbutton input {
+  display: block;
+  line-height: 75px;
+}
+#logintest > div {
+  margin: 30px  auto 0;
+}
